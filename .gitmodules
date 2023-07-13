@@ -1,3 +1,6 @@
 [submodule "2020_ADIS_workshop"]
 	path = 2020_ADIS_workshop
 	url = https://github.com/pyiron/ADIS-workshop-2020.git
+[submodule "2020_NIST_workshop"]
+	path = 2020_NIST_workshop
+	url = https://github.com/pyiron/NIST-workshop-2020.git
