@@ -19,3 +19,9 @@
 [submodule "2022_Potentials_workshop"]
 	path = 2022_Potentials_workshop
 	url = https://github.com/pyiron/potentials-workshop-2022.git
+[submodule "2023_DGM_workshop"]
+	path = 2023_DGM_workshop
+	url = https://github.com/pyiron/DGM_workshop.git
+[submodule "2023_DPG_workflows"]
+	path = 2023_DPG_workflows
+	url = https://github.com/pyiron/dpg-workflows-tutorial-2023.git
