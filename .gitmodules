@@ -25,3 +25,6 @@
 [submodule "2023_DPG_workflows"]
 	path = 2023_DPG_workflows
 	url = https://github.com/pyiron/dpg-workflows-tutorial-2023.git
+[submodule "2023_LAMMPS_workshop"]
+	path = 2023_LAMMPS_workshop
+	url = https://github.com/pyiron/lammps-workshop-2023.git
