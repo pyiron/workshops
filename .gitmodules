@@ -28,3 +28,6 @@
 [submodule "2023_LAMMPS_workshop"]
 	path = 2023_LAMMPS_workshop
 	url = https://github.com/pyiron/lammps-workshop-2023.git
+[submodule "2023_MatWerk_workshop"]
+	path = 2023_MatWerk_workshop
+	url = https://github.com/pyiron/NFDI-Matwerk-workshop-2023.git
