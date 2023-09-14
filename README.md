@@ -12,6 +12,7 @@
 | Simulation Workflows in Materials Modelling (SWiMM) | 2021 | [:memo:](https://www.cecam.org/workshop-details/27) | [:books:](http://pyiron.org/swimm-workshop-2021/) | [:package:](https://github.com/pyiron/swimm-workshop-2021) | [:tv:](https://www.youtube.com/playlist?list=PL7AkGfbmuLRQeJ-Koq_6m99Lq4mueF2L-) |
 | Potentials workshop: From Electrons to Phase Diagrams | 2022 | [:memo:](http://potentials.rub.de/2022/index.php) | [:books:](http://pyiron.org/potentials-workshop-2022/intro.html) | [:package:](https://github.com/pyiron/potentials-workshop-2022) | [:tv:](https://www.youtube.com/watch?v=8NP3DpUkg6U) | 
 | German Society for Materials Science | 2023 | | | [:package:](https://github.com/pyiron/DGM_workshop/) | | 
+| NFDI-MatWerk: Workflows for materials science simulations with pyiron | 2023 | [:memo:](https://nfdi-matwerk.de/nfdi/2023/program/scientific-program) | | [:package:](https://github.com/pyiron/NFDI-Matwerk-workshop-2023) | [:books:](https://pyiron.org/NFDI-Matwerk-workshop-2023/intro.html) | 
 | Hands-on Tutorial on Workflows for Materials Science Simulation | 2023 | [:memo:](https://www.dpg-verhandlungen.de/year/2023/conference/skm/part/mm/session/1/contribution/1) | | [:package:](https://github.com/pyiron/dpg-workflows-tutorial-2023) | | 
 | LAMMPS Virtual Workshop and Symposium | 2023 | [:memo:](https://www.lammps.org/workshops/Aug23/) | [:books:](http://pyiron.org/lammps-workshop-2023) | [:package:](https://github.com/pyiron/lammps-workshop-2023) | | 
 
