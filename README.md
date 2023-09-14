@@ -2,8 +2,8 @@
 
 ## Collection of pyiron workshops
 
-| Name | Year | Workshop | Website | Repository | Videos |
-|------|------|----------|---------|------------|--------|
+| Workshop Title | Year | Workshop | Website | Repository | Videos |
+|:---------------|:-----|:--------:|:-------:|:----------:|:------:|
 | Ab initio Description of Iron and Steel (ADIS): Diffusion and Precipitation | 2020 | [:memo:](https://www.mpie.de/4433801/adis2020) | | [:package:](https://github.com/pyiron/ADIS-workshop-2020) |  | 
 | Atomistic Simulations for Industrial Needs | 2020 | [:memo:](https://www.nist.gov/news-events/events/2020/08/atomistic-simulations-industrial-needs) | | [:package:](https://github.com/pyiron/NIST-workshop-2020) | [:tv:](https://www.youtube.com/watch?v=jQGYUgJK3Ug) | 
 | Software Tools from Atomistics to Phase Diagrams | 2020 | | [:books:](https://pyiron.org/phasediagram-workshop-2020/) | [:package:](https://github.com/pyiron/phasediagram-workshop-2020) | [:tv:](https://www.youtube.com/playlist?list=PL7AkGfbmuLRReeaQmsTl-vaDyEZR8ROkx) | 
