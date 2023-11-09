@@ -20,4 +20,4 @@
 - clone this repository
 - `git submodule add <url> YEAR_workshopname`
 - push the changes
-
+- Do not add folders directly in this repo.
